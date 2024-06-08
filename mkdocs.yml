@@ -1,0 +1,7 @@
+site_name: TEST
+
+theme:
+  name: material
+
+plugins:
+  - with-pdf
